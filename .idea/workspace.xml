@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00aae8af-ec46-4cef-b192-b928618887d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CoverUsage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AiPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumanPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AiPlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/DatabaseManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GameStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/HumanPlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sun_checks.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pnn8wgEczzlY4KLnlC62ZjfPGG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GameDatabase.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
+    "Diffblue Cover.Write tests for class AiPlayer.executor": "Run",
+    "Diffblue Cover.Write tests for class Board.executor": "Run",
+    "Diffblue Cover.Write tests for class DatabaseManager.executor": "Run",
+    "Diffblue Cover.Write tests for class Game.executor": "Run",
+    "Diffblue Cover.Write tests for class Player.executor": "Run",
+    "Diffblue Cover.Write tests for prefix DatabaseManager and Player.executor": "Run",
+    "JUnit.AiPlayerDiffblueTest.executor": "Run",
+    "JUnit.AiPlayerTest.executor": "Run",
+    "JUnit.BoardDiffblueTest.executor": "Run",
+    "JUnit.BoardTest.executor": "Run",
+    "JUnit.DatabaseManagerDiffblueTest.executor": "Run",
+    "JUnit.DatabaseManagerTest.executor": "Run",
+    "JUnit.GameDiffblueTest.executor": "Run",
+    "JUnit.GameTest.executor": "Run",
+    "JUnit.PlayerDiffblueTest.executor": "Run",
+    "JUnit.PlayerTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Beadando [clean,verify].executor": "Run",
+    "Maven.Beadando [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Write tests for class AiPlayer" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for class AiPlayer" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="org.example.AiPlayer" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class Board" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for class Board" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="org.example.Board" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class DatabaseManager" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for class DatabaseManager" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="org.example.DatabaseManager" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class Game" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for class Game" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="org.example.Game" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class GameState" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for class GameState" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="org.example.GameState" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class HumanPlayer" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for class HumanPlayer" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="org.example.HumanPlayer" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class Player" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for class Player" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="org.example.Player" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for prefix AiPlayer, Board and 5 more" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for prefix AiPlayer, Board and 5 more" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>prefix</selection-scope>
+        <selected-element key="org.example.AiPlayer" />
+        <selected-element key="org.example.Board" />
+        <selected-element key="org.example.DatabaseManager" />
+        <selected-element key="org.example.Game" />
+        <selected-element key="org.example.GameState" />
+        <selected-element key="org.example.HumanPlayer" />
+        <selected-element key="org.example.Player" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for prefix DatabaseManager and Player" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Beadando" />
+      <settings run-config-name="Write tests for prefix DatabaseManager and Player" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>prefix</selection-scope>
+        <selected-element key="org.example.DatabaseManager" />
+        <selected-element key="org.example.Player" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Diffblue Cover.Write tests for prefix DatabaseManager and Player" />
+        <item itemvalue="Diffblue Cover.Write tests for prefix AiPlayer, Board and 5 more" />
+        <item itemvalue="Diffblue Cover.Write tests for class GameState" />
+        <item itemvalue="Diffblue Cover.Write tests for class HumanPlayer" />
+        <item itemvalue="Diffblue Cover.Write tests for class Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00aae8af-ec46-4cef-b192-b928618887d3" name="Changes" comment="" />
+      <created>1733410554061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733410554061</updated>
+    </task>
+    <servers />
+  </component>
+</project>
